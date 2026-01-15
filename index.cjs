@@ -1,4 +1,4 @@
-const ChatRoom = require("./chatRoom.js")
+const ChatRoom = require("./chatRoom.cjs")
 
 const chat = new ChatRoom()
 
