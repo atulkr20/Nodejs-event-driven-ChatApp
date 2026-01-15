@@ -5,7 +5,7 @@ class ChatRoom extends EventEmitter{
     constructor() {
         super()
         this.users = new Set();
-        // Set is a type a dat structure which store unique values
+        // Set is a data structure which store unique values only
     }
 
     join(user) {

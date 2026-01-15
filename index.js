@@ -12,7 +12,7 @@ chat.on("leave", (user) => {
     console.log(`${user} has left the chat`);
 });
 
-//  Now simulate the chat
+//  Simulating the chat
 
 chat.join('Atul')
 chat.join('Aman')
